@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/elnaz/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/elnaz/catkin_ws/src/demo_pkg/include/**",
+        "/home/elnaz/catkin_ws/src/turtle_square_move/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
